@@ -1,6 +1,5 @@
 # jenkins-integration-example
 
-
 ## Usage:
 
 
