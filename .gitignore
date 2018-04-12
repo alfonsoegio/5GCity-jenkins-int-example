@@ -1,4 +1,4 @@
 __pycache__
 venv
 conf/*
-!conf/*.conf.sample
+!conf/*.cfg.sample
