@@ -12,7 +12,7 @@ import time
 import requests
 
 from flask import Flask, Blueprint
-from lask_restful import Api
+from flask_restful import Api
 from api.hello import Hello as HelloApi
 
 CONFIG = ConfigParser()
