@@ -15,6 +15,8 @@ from flask import Flask, Blueprint
 from flask_restful import Api
 from api.hello import Hello as HelloApi
 
+errror
+
 CONFIG = ConfigParser()
 CONFIG.read('conf/config.cfg')
 HOST = CONFIG.get('flask', 'host')
